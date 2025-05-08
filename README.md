@@ -70,4 +70,13 @@ This was a guided project based on a professional course, which allowed me to:
 
 ![Screenshot 2025-05-08 152436](https://github.com/user-attachments/assets/24be3be5-215c-446b-80ee-8201c3aba24e)
 
+![Screenshot 2025-05-08 152234](https://github.com/user-attachments/assets/7c190654-f740-47c6-b46c-b4d366a47c6a)
+![Screenshot 2025-05-08 152251](https://github.com/user-attachments/assets/f39983bc-7156-49eb-8df9-75b6d8702d66)
+![Screenshot 2025-05-08 152322](https://github.com/user-attachments/assets/9d6ef2f0-b80f-4201-8347-5a0a969e7d49)
+![Screenshot 2025-05-08 152352](https://github.com/user-attachments/assets/2745472f-7fe4-4e85-b7f9-795932ae626c)
+![Screenshot 2025-05-08 152422](https://github.com/user-attachments/assets/d2de1403-929b-45e6-8b30-2ef17fb33dbf)
+
+
+
+
 
