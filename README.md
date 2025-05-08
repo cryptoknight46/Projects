@@ -68,4 +68,6 @@ This was a guided project based on a professional course, which allowed me to:
 - Apply validation and error handling in real-world scenarios
 - Use Docker for basic containerization
 
+![Screenshot 2025-05-08 152436](https://github.com/user-attachments/assets/24be3be5-215c-446b-80ee-8201c3aba24e)
+
 
